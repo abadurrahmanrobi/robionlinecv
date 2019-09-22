@@ -1,0 +1,81 @@
+
+p, h2, h3, h4, h5, h6{
+	margin: 0;
+}
+
+a {
+	color: #dc3545;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+.btn {
+	border-radius: 0;
+}
+
+.content {
+	height: auto;
+	margin: 15px 0;
+}
+
+.cvimg {
+	width: 100%;
+}
+
+.start-info h4,p{
+	margin-bottom: 15px;
+}
+
+.card {
+	border-radius: 0;
+	margin: 15px 0;
+}
+
+.project {
+	padding: 10px 10px 0 10px;
+	margin-bottom: 15px;
+}
+
+.project:hover{
+	opacity: 0.9;
+}
+
+.cretificate {
+	text-align: center;
+	position: relative;
+	margin-bottom: 15px;
+}
+
+.cretificate img {
+	width: auto;
+	height: 150px;
+}
+
+.badge {
+	border-radius: 0;
+	padding: 5px 10px;
+	font-size: 15px;
+	font-weight: normal;
+}
+
+footer {
+	padding: 5px 0;
+	text-align: center;
+}
+
+footer p {
+	margin: 0;
+}
+
+#scrollToTop {
+    bottom: 50px;
+    display: none;
+    position: fixed;
+    right: 15px;
+}
+
+.modal-content {
+	border-radius: 0;
+}
